@@ -18,7 +18,8 @@
     height: 25%;
     width: 1%;
     left: 49.3%;
-    top: 25%;   
+    top: 25%;  
+    background: dimgray;
 }
 
 #minute{
@@ -26,6 +27,7 @@
     width: 1%;
     left: 49.3%;
     top: 20%;
+    background: steelblue;
 }
 
 #second{
@@ -33,4 +35,5 @@
     width: 1%;
     left: 49.3%;
     top: 14%;  
+    background: red;
 }
